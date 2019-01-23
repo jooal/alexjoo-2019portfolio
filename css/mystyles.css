@@ -1,0 +1,28 @@
+.container-padding {
+    padding-top: 4.625rem;
+}
+
+.equalheight {
+    height: 609px;
+}
+
+#about {
+
+    padding-bottom: 10px;
+}
+
+.icon_box {
+height: 400px;
+}
+
+.portfolio-modal {
+    height: 300px;
+    width: 600px;
+    text-align: center;
+    
+}
+
+.mfp-hide {
+  display: none; }
+
+
